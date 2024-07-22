@@ -1,0 +1,24 @@
+
+  
+  body {
+    font-size: 3.5vh;
+    font-family: 'San Francisco', Helvetica, Arial, san-serif;
+    padding-top: 200px;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    overflow: hidden;
+  }
+  
+ button {
+    border:  rgb(71, 60, 60);
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+    font-size: 5vh;
+ }
+
+ .dontclick { 
+  margin-top: 24%;
+ }
